@@ -1,0 +1,9 @@
+sample_ID,pcr_cleanup_method,pcr_cleanup_date,yeild_post_cleanup_ng_ul,yeild_measurement_method,volume_for_sanger_reaction_ul,npH20_for_sanger_reaction,sanger_reaction_primer_name,sanger_reaction_primer_seq,sanger_reaction_submit_date,sanger_label,template
+5,qiagen kit,2-3-23,45.5,nanodrop,3.2967032967033,6.7032967032967,VRI_primer_1,TACGACTCACTATAGGGCGAATTGG,2-3-23,1,T7_init_VR-23.gb
+6,qiagen kit,2-3-23,59.6,nanodrop,2.51677852348993,7.48322147651007,VRI_primer_1,TACGACTCACTATAGGGCGAATTGG,2-3-23,2,T7_init_VR-23.gb
+7,qiagen kit,2-3-23,56.6,nanodrop,2.65017667844523,7.34982332155477,VRI_primer_1,TACGACTCACTATAGGGCGAATTGG,2-3-23,3,T7_init_VR-23.gb
+8,qiagen kit,2-3-23,44,nanodrop,3.40909090909091,6.59090909090909,VRI_primer_1,TACGACTCACTATAGGGCGAATTGG,2-3-23,4,T7_init_VR-23.gb
+13,qiagen kit,2-3-23,63.4,nanodrop,2.36593059936909,7.63406940063092,VRI_primer_1,TACGACTCACTATAGGGCGAATTGG,2-3-23,5,T7_init_VR-22.gb
+14,qiagen kit,2-3-23,49.4,nanodrop,3.03643724696356,6.96356275303644,VRI_primer_1,TACGACTCACTATAGGGCGAATTGG,2-3-23,6,T7_init_VR-22.gb
+15,qiagen kit,2-3-23,55,nanodrop,2.72727272727273,7.27272727272727,VRI_primer_1,TACGACTCACTATAGGGCGAATTGG,2-3-23,7,T7_init_VR-22.gb
+16,qiagen kit,2-3-23,47,nanodrop,3.19148936170213,6.80851063829787,VRI_primer_1,TACGACTCACTATAGGGCGAATTGG,2-3-23,8,T7_init_VR-22.gb
